@@ -8,3 +8,14 @@
     </ul>
   </div><!--/.well -->
 </div><!--/span-->
+
+<div class="col-lg-3">
+  <div class="well sidebar-nav">
+    <h3>Usuario</h3>
+    <ul class="nav nav-list">
+        <li><%= link_to "Iniciar sesión", new_user_session_path  %></li>
+        <li><%= link_to "Regístrate", new_user_registration_path  %></li>
+        <li><%= link_to "Cerrar sesión", destroy_user_session_path, method: :delete  %></li>
+    </ul>
+  </div><!--/.well -->
+</div><!--/span-->

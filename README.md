@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tecnologías utilizadas y pasos principales aplicados para la implementación.
 
-Things you may want to cover:
+- Se utilizó la gema bootstrap para dar estilo a la web.
+- Se utilizó la gema devise para desarrollar la gestión de usuarios, sesiones, etc.
 
-* Ruby version
+- El desarrollo fue realizado en la plataforma Cloud9.
+- Se desarrollaron 3 paginas: Home, About me y Services. Se incluyó un menu y un sidebar para la navegación entre estas paginas.
+- Se incluyó un sidebar para la gestión de usuarios.
+- Se aplicó Responsive Web Design gracias a la gema bootstrap.
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
